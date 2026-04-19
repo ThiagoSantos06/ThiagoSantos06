@@ -6,15 +6,17 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,rxjs,git,github,figma,nodejs,npm,vscode" />
-</p>
+### Skills
+<img src="https://skillicons.dev/icons?i=angular,ts,rxjs,nodejs,docker,bootstrap" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,gitlab,figma,vscode,postman" />
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThiagoSantos06&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -23,23 +25,20 @@
 
 ---
 
-## 💼 Sobre mim
+## Sobre mim
 
-- 🎯 Focado em **Angular + TypeScript**
-- 🧠 Curto criar interfaces rápidas, limpas e bem organizadas
-- 📚 Estudando arquitetura, otimização e boas práticas de front-end
-- 🔄 Criando projetos pessoais para evoluir continuamente
+- Focado em **Angular + TypeScript**
+- Curto criar interfaces rápidas, limpas e bem organizadas
+- Estudando arquitetura, otimização e boas práticas de front-end
+- Criando projetos pessoais para evoluir continuamente
 
 ---
 
-## 📫 Contato
+## Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiago-santos-29b5542b7" target="_blank">
-    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:thiagohenrique1983c@gmail.com">
-    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
-  </a>
-</p>
+<a href="mailto:thiagohenrique1983c@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="35" />
+</a>
+<a href="https://www.linkedin.com/in/thiago-santos-29b5542b7" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+</a>
