@@ -4,10 +4,6 @@
   <b>Desenvolvedor Front-end | Angular | TypeScript | Java | Spring Boot</b>
 </p>
 
-<p align="center">
-  Desenvolvedor focado na construção de aplicações web modernas, responsivas e eficientes, com experiência em Front-end e conhecimentos em Back-end.
-</p>
-
 ---
 
 ## Tecnologias e Ferramentas
